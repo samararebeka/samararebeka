@@ -7,7 +7,8 @@
   
 <img src="https://user-images.githubusercontent.com/1954752/120525494-2b195500-c3a6-11eb-9b00-ad81434be18d.png" align="right" height="300" width="" />
 </div> 
-- 🌱 I’m currently learning Java  
+
+-  🌱 I’m currently learning Java  
   
 
 - ❓Ask me about anything related to the aforementioned technologies.  
