@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="400" width="800"/>
 </div>  
   
 
 ### <div align="center">I'm samara🖖 energy engineering student and jr full-stack developer👩‍💻passionate about the best web development technologies. I'm currently perfecting development in practice with freelance projects using Html, CSS and JavaScript. Also, I'm learning the latest web technologies like NodeJS, ReactJS, React Native and Typescript. 🚀</div>  
   
-<img src="https://user-images.githubusercontent.com/1954752/120525494-2b195500-c3a6-11eb-9b00-ad81434be18d.png" align="right" height="200" width="" />
+<img src="https://user-images.githubusercontent.com/1954752/120525494-2b195500-c3a6-11eb-9b00-ad81434be18d.png" align="right" height="300" width="" />
 </div> 
 - 🌱 I’m currently learning Java  
   
