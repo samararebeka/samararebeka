@@ -90,16 +90,20 @@
 ## Github Stats  
  
 
-<img src="https://user-images.githubusercontent.com/4361134/33792358-6e3bbc52-dce0-11e7-8c74-a5701a431391.gif" align="right" height="200" width="" />  
-
 <br />
- <a href="https://github.com/samararebeka"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samararebeka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
+<div align="center">
+<a href="https://github.com/samararebeka">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samararebeka&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samararebeka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <br/>  
 
 
 ## Recent Blog Posts  
 
 <br/>  
+  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=vpgsek3z63z8bklv3mxazrl9q&cover_image=true&theme=default" /></div>  
 
